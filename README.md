@@ -114,18 +114,7 @@ I specialize in designing and deploying **end-to-end AI pipelines**, from data p
 🔧 **Stack:** ViT · ResNet · Gradio · MongoDB · GitHub Actions
 
 </td>
-<td width="50%" valign="top">
 
-### 🔬 [Your 4th Project Here]
-
-*Brief description*
-
-🎯 Key metric/achievement<br/>
-📊 Key feature 2<br/>
-⚡ Key feature 3<br/>
-🔧 **Stack:** Tech1 · Tech2 · Tech3
-
-</td>
 </tr>
 </table>
 
