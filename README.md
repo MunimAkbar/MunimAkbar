@@ -1,12 +1,9 @@
 ﻿<div align="center">
 
-<!-- Animated Header with Gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1f2e,70:0ea5e9,100:6366f1&height=250&section=header&text=Munim%20Akbar&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20ML%20Engineer&descAlignY=58&descSize=20&descColor=0ea5e9"/>
 
-<!-- Typing Animation - Multi-line with more skills -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&height=100&lines=⚡+AI%2FML+Engineer+%7C+Computer+Vision+%7C+MLOps+%7C+LLMs;🎯+End-to-End+ML+Pipelines+%7C+AI+for+Sports+Analytics;🤖+RAG+%7C+Agentic+AI+%7C+Embeddings+%7C+Model+Serving;🚀+Building+Production-Grade+Intelligent+Systems" alt="Typing SVG"/>
 
-<!-- Contact Badges -->
 <p>
   <a href="mailto:munimakbar113@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -19,7 +16,6 @@
   </a>
 </p>
 
-<!-- Tech Stack Quick Preview -->
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -35,10 +31,7 @@
 
 </div>
 
-<br/>
-
-<!-- Custom Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=3"/>
+---
 
 ## 🎯 What I Do
 
@@ -50,9 +43,7 @@
 
 </div>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=2"/>
+---
 
 ## 👨‍💻 About Me
 
@@ -63,15 +54,16 @@ class MunimAkbar:
         self.location = "Islamabad, PK"
         self.expertise = ["Computer Vision", "MLOps", "LLMs", "End-to-End ML"]
         self.philosophy = "Build practical, high-impact AI systems that solve real problems"
-    
+
     def current_focus(self):
         return {
             "building": "AI-powered sports analytics systems",
             "learning": "Advanced agentic AI & production deployment",
             "open_to": "AI/ML opportunities — Remote | On-site"
-        } '''
+        }
+```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=2"/>
+---
 
 ## 💼 Work Experience
 
@@ -80,13 +72,11 @@ class MunimAkbar:
 | `May 2025 – Feb 2026` | **Data Analyst** @ Cowlar Design Studio • Islamabad | • Managed **100,000+ product catalog** with structured pipelines<br/>• Built CV datasets (**80,000+ annotations**) + trained YOLOv11<br/>• Developed **LLM-based product categorization** using embeddings + semantic search<br/>• Reduced manual effort by **30%** through automation |
 | `Jan 2024 – Jun 2024` | **AI/ML Engineer Intern** @ CSERA Pvt Ltd | • Developed **network anomaly detection** (Isolation Forest + Autoencoders)<br/>• Built **NLP chatbot + voice assistant** (Transformers, Rasa, Dialogflow)<br/>• Achieved **85%+ accuracy** in automated responses |
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1f2e&height=2"/>
+---
 
 ## 🚀 Featured Projects
 
-<table border="0">
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -94,11 +84,11 @@ class MunimAkbar:
 
 *Player tracking, team classification, and tactical visualizations*
 
-🎯 **~86% accuracy** with real-time deployment<br/>
-📊 Player, ball, and referee detection using YOLOv8<br/>
-🏷️ Team classification: Siglip + UMAP + KMeans<br/>
-🗺️ Tactical visualizations: radar view, Voronoi diagrams, trajectory tracking<br/>
-🔧 **Stack:** YOLOv8 · Siglip · UMAP · Flask/FastAPI · OpenCV
+- 🎯 **~86% accuracy** with real-time deployment
+- 📊 Player, ball, and referee detection using YOLOv8
+- 🏷️ Team classification: Siglip + UMAP + KMeans
+- 🗺️ Tactical visualizations: radar view, Voronoi diagrams, trajectory tracking
+- 🔧 **Stack:** YOLOv8 · Siglip · UMAP · Flask/FastAPI · OpenCV
 
 </td>
 <td width="50%" valign="top">
@@ -107,12 +97,12 @@ class MunimAkbar:
 
 *End-to-end pipeline with production-ready practices*
 
-🎯 **92% accuracy** using VGG16 transfer learning<br/>
-🔍 OOD detection using cosine similarity<br/>
-📦 **DVC + MLflow + DagsHub** for experiment tracking<br/>
-🐳 Dockerized deployment with Flask/FastAPI<br/>
-🤗 Hugging Face Spaces UI integration<br/>
-🔧 **Stack:** VGG16 · DVC · MLflow · Docker · FastAPI
+- 🎯 **92% accuracy** using VGG16 transfer learning
+- 🔍 OOD detection using cosine similarity
+- 📦 **DVC + MLflow + DagsHub** for experiment tracking
+- 🐳 Dockerized deployment with Flask/FastAPI
+- 🤗 Hugging Face Spaces UI integration
+- 🔧 **Stack:** VGG16 · DVC · MLflow · Docker · FastAPI
 
 </td>
 </tr>
@@ -123,20 +113,18 @@ class MunimAkbar:
 
 *Dual-model system for robust classification*
 
-🎯 **94% accuracy**<br/>
-🔄 Dual-model: ResNet (OOD) + ViT (classification)<br/>
-⚙️ CI/CD pipeline: GitHub Actions + DVC + MLflow<br/>
-🎨 Gradio app with MongoDB integration<br/>
-🔧 **Stack:** ViT · ResNet · Gradio · MongoDB · GitHub Actions
+- 🎯 **94% accuracy**
+- 🔄 Dual-model: ResNet (OOD) + ViT (classification)
+- ⚙️ CI/CD pipeline: GitHub Actions + DVC + MLflow
+- 🎨 Gradio app with MongoDB integration
+- 🔧 **Stack:** ViT · ResNet · Gradio · MongoDB · GitHub Actions
 
 </td>
-
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1f2e&height=2"/>
+---
 
 ## 🛠️ Tech Stack
 
@@ -179,42 +167,27 @@ class MunimAkbar:
 
 </div>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1f2e&height=2"/>
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=munimakbar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=munimakbar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=6366f1&text_color=c9d1d9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munimakbar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=6"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munimakbar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&langs_count=6"/>
-
-</div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=2"/>
-📊 GitHub Analytics
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=munimakbar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=6366f1&text_color=c9d1d9"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munimakbar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=6"/></div><div align="center"><img src="https://streak-stats.demolab.com/?user=munimakbar&theme=dark&hide_border=true&background=0D1117&stroke=0ea5e9&ring=0ea5e9&fire=6366f1&currStreakLabel=0ea5e9"/></div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=2"/>
-🎓 Education
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=munimakbar&theme=dark&hide_border=true&background=0D1117&stroke=0ea5e9&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9"/>
+<img src="https://streak-stats.demolab.com/?user=munimakbar&theme=dark&hide_border=true&background=0D1117&stroke=0ea5e9&ring=0ea5e9&fire=6366f1&currStreakLabel=0ea5e9"/>
 
 </div>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1f2e&height=2"/>
+---
 
 ## 🎓 Education
 
-### 🎓 BS Artificial Intelligence  
+### 🎓 BS Artificial Intelligence
 **Air University, Islamabad** — 2021 – 2025
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1f2e&height=2"/>
+---
 
 ## 📫 Let's Connect
 
@@ -223,19 +196,17 @@ class MunimAkbar:
 <a href="mailto:munimakbar113@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/munim-akbar/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/munimakbar">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 ⭐ **Open to AI/ML Opportunities** | Remote | On-site
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0ea5e9,100:0d1117&height=120&section=footer"/>
