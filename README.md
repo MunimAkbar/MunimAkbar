@@ -90,6 +90,82 @@
 
 ### 📫 Want to Collaborate?
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/munim-akbar) or shoot me an [email](mailto:munimakbar27@gmail.com) — always open for exciting AI/ML projects & collaborations! 🚀
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/munim-akbar) or shoot me an [email](mailto:munimakbar113@gmail.com) — always open for exciting AI/ML projects & collaborations! 🚀
+
+---
+ 
+---
+
+<div align="center">
+
+<!-- Polished header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0ea5e9&height=200&section=header&text=Munim+Akbar&fontSize=56&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
+
+</div>
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/munim-akbar"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/MunimAkbar"><img alt="GitHub" src="https://img.shields.io/github/followers/MunimAkbar?label=Follow&style=social"></a>
+  <a href="mailto:munimakbar113@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+## 👋 About Me
+
+I am an AI & ML Engineer focused on building production-ready machine learning systems that solve real-world problems. I work across the full lifecycle — research, model development, deployment, and monitoring — with a focus on Computer Vision, NLP, and MLOps.
+
+Key strengths:
+
+- End-to-end ML pipelines (experimentation → deployment → monitoring)
+- Computer Vision: detection, tracking, segmentation, analytics
+- NLP & LLMs: classification, retrieval-augmented generation (RAG), fine-tuning
+- Production: FastAPI/Flask, Docker, MLflow, DVC
+
+---
+
+## 🔭 Featured Projects
+
+- **AI Football Match Analysis (FYP)** — Event-based player & ball detection, radar view, Voronoi diagrams, and trajectory tracking. Stack: PyTorch, YOLO, OpenCV, FastAPI.
+
+- **NLP-based Product Categorization** — Hierarchical classification pipeline for supermarket items. Stack: Transformers, scikit-learn, FastAPI.
+
+- **British Airways Review Classifier (Forage)** — Scraped reviews and built sentiment classifier. Stack: TensorFlow, EDA, model deployment.
+
+- **Gala Groceries ML (Cognizant Forage)** — End-to-end pipeline including data analysis, modeling, and deployment for retail analytics.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, SQL
+- **Deep Learning:** PyTorch, TensorFlow, Keras
+- **Computer Vision:** OpenCV, YOLO, Detectron
+- **NLP / LLMs:** Hugging Face Transformers, LangChain
+- **MLOps & Deployment:** Docker, FastAPI, Flask, MLflow, DVC, GitHub Actions
+- **Data & Search:** MongoDB, FAISS
+
+---
+
+## 🎓 Education & Learning
+
+- **Final Year Project:** AI-powered Football Match Analysis (Computer Vision + Deep Learning)
+- **Currently learning:** MLOps (MLflow, DVC), Transformers & RAG systems, model deployment best practices.
+
+---
+
+## 💬 Get In Touch
+
+- **Email:** munimakbar113@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/munim-akbar
+- **GitHub:** https://github.com/MunimAkbar
+
+If you'd like, I can:
+
+- Add a short bio with your location and availability.
+- Add links to project repos, demos, and screenshots.
+- Tweak the visual style (dark/light) and badges.
+
+Tell me which details you'd like to add or change and I'll update the file.
 
 ---
