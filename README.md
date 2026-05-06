@@ -1,17 +1,37 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0ea5e9&height=200&section=header&text=Munim%20Akbar&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
+<!-- Animated Header with Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1f2e,70:0ea5e9,100:6366f1&height=250&section=header&text=Munim%20Akbar&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20ML%20Engineer&descAlignY=58&descSize=20&descColor=0ea5e9"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Computer+Vision+%7C+MLOps+%7C+LLMs;Building+Real-World+AI+Systems;End-to-End+ML+Pipelines;AI+for+Sports+Analytics" alt="Typing SVG"/>
+<!-- Typing Animation - Multi-line with more skills -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&height=100&lines=⚡+AI%2FML+Engineer+%7C+Computer+Vision+%7C+MLOps+%7C+LLMs;🎯+End-to-End+ML+Pipelines+%7C+AI+for+Sports+Analytics;🤖+RAG+%7C+Agentic+AI+%7C+Embeddings+%7C+Model+Serving;🚀+Building+Production-Grade+Intelligent+Systems" alt="Typing SVG"/>
 
-<!-- Contact Badges -->
+<!-- Clickable Contact Badges - Clean & Professional -->
 <p>
-  <img src="https://img.shields.io/badge/Email-munimakbar113@gmail.com-0ea5e9?style=flat-square&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LinkedIn-Munim_Akbar-0ea5e9?style=flat-square&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Location-Islamabad,_PK-0ea5e9?style=flat-square&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/>
+  <a href="mailto:munimakbar113@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/munim-akbar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/munimakbar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/munimakbar">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Tech Stack Quick Preview -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=ultralytics&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 </p>
 
 </div>
@@ -19,43 +39,61 @@
 <br/>
 
 <!-- Custom Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1f2e&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=3"/>
 
-## 🎯 Focus Areas
+## 🎯 What I Do
 
-<table>
+<div align="center">
+
+<table border="0" cellpadding="10">
 <tr>
-<td width="25%" align="center">⚽</td>
-<td width="25%" align="center">🧠</td>
-<td width="25%" align="center">⚙️</td>
-<td width="25%" align="center">🤖</td>
-</tr>
-<tr>
-<td align="center"><b>AI for Sports Analytics</b><br/><sub>Computer Vision + Tactical Analysis</sub></td>
-<td align="center"><b>Machine Learning</b><br/><sub>End-to-End Systems</sub></td>
-<td align="center"><b>MLOps & Deployment</b><br/><sub>Docker, CI/CD, Model Serving</sub></td>
-<td align="center"><b>LLM Applications</b><br/><sub>RAG, Embeddings, Agentic AI</sub></td>
+<td width="25%" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
+  <br/><b>⚽ Computer Vision</b>
+  <br/><sub>Object Detection • Tracking • Sports Analytics • YOLOv8/v11</sub>
+</td>
+<td width="25%" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <br/><b>🧠 Deep Learning</b>
+  <br/><sub>CNNs • Vision Transformers • Transfer Learning • Classification</sub>
+</td>
+<td width="25%" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <br/><b>⚙️ MLOps</b>
+  <br/><sub>Docker • MLflow • DVC • CI/CD • Model Deployment</sub>
+</td>
+<td width="25%" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <br/><b>🤖 LLMs & RAG</b>
+  <br/><sub>LangChain • Embeddings • Agentic AI • Vector DBs</sub>
+</td>
 </tr>
 </table>
 
+</div>
+
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1f2e&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=2"/>
 
 ## 👨‍💻 About Me
 
-AI/ML Engineer with hands-on experience building **real-world intelligent systems** using Computer Vision, LLMs, and MLOps practices.
+```python
+class MunimAkbar:
+    def __init__(self):
+        self.role = "AI/ML Engineer"
+        self.location = "Islamabad, PK"
+        self.expertise = ["Computer Vision", "MLOps", "LLMs", "End-to-End ML"]
+        self.philosophy = "Build practical, high-impact AI systems that solve real problems"
+    
+    def current_focus(self):
+        return {
+            "building": "AI-powered sports analytics systems",
+            "learning": "Advanced agentic AI & production deployment",
+            "open_to": "AI/ML opportunities — Remote | On-site"
+        }
 
-I specialize in designing and deploying **end-to-end AI pipelines**, from data processing and model training to scalable APIs and production systems.
-
-**Strong focus on:**
-- 🔧 Practical implementation
-- 🤖 Automation
-- 🚀 High-impact AI solutions
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1f2e&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=2"/>
 
 ## 💼 Work Experience
 
@@ -219,14 +257,3 @@ I specialize in designing and deploying **end-to-end AI pipelines**, from data p
 <div align="center">
 
 ⭐ **Open to AI/ML Opportunities** | Remote | On-site
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=munimakbar&color=0ea5e9&style=for-the-badge&label=Profile+Views"/>
-
-</div>
-
-<br/>
-
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0d1117&height=120&section=footer"/>
