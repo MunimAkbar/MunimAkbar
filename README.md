@@ -171,13 +171,49 @@ class MunimAkbar:
 
 ## 📊 GitHub Stats
 
+<!-- Stats Row 1: Core Metrics -->
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=munimakbar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=6366f1&text_color=c9d1d9"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munimakbar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=6"/>
-
-<img src="https://streak-stats.demolab.com/?user=munimakbar&theme=dark&hide_border=true&background=0D1117&stroke=0ea5e9&ring=0ea5e9&fire=6366f1&currStreakLabel=0ea5e9"/>
-
+<a href="https://github.com/munimakbar">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=munimakbar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=6366f1&text_color=c9d1d9&rank_icon=github&include_all_commits=true"/>
+</a>
+<a href="https://github.com/munimakbar">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munimakbar&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=6"/>
+</a>
+</div>
+<!-- Stats Row 2: Streak -->
+<div align="center">
+<a href="https://github.com/munimakbar">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=munimakbar&theme=dark&hide_border=true&background=0D1117&stroke=0ea5e9&ring=6366f1&fire=0ea5e9&currStreakLabel=6366f1&sideNums=0ea5e9&currStreakNum=ffffff&sideLabels=0ea5e9&dates=888888"/>
+</a>
+</div>
+<!-- Stats Row 3: Activity Graph -->
+<div align="center">
+<a href="https://github.com/munimakbar">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=munimakbar&bg_color=0d1117&color=0ea5e9&line=6366f1&point=ffffff&area=true&area_color=0ea5e9&hide_border=true&custom_title=Contribution%20Graph"/>
+</a>
+</div>
+<!-- Stats Row 4: Trophies -->
+<div align="center">
+<a href="https://github.com/munimakbar">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=munimakbar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+</a>
+</div>
+<!-- Stats Row 5: Profile Summary -->
+<div align="center">
+<a href="https://github.com/munimakbar">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munimakbar&theme=tokyonight"/>
+</a>
+</div>
+<div align="center">
+<a href="https://github.com/munimakbar">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=munimakbar&theme=tokyonight"/>
+</a>
+<a href="https://github.com/munimakbar">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=munimakbar&theme=tokyonight"/>
+</a>
+<a href="https://github.com/munimakbar">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=munimakbar&theme=tokyonight&utcOffset=5"/>
+</a>
 </div>
 
 ---
