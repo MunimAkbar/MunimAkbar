@@ -91,7 +91,7 @@ class MunimAkbar:
             "building": "AI-powered sports analytics systems",
             "learning": "Advanced agentic AI & production deployment",
             "open_to": "AI/ML opportunities — Remote | On-site"
-        }
+        } '''
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=2"/>
 
