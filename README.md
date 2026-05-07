@@ -2,7 +2,7 @@
 
 <h1>Munim Akbar</h1>
 
-<img alt="AI/ML Engineer, Data Analytics, Computer Vision, MLOps, LLMs" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=100&amp;lines=%E2%9A%A1%20AI%2FML%20Engineer%20%7C%20Data%20Analytics%20%7C%20Computer%20Vision%20%7C%20MLOps;%F0%9F%8E%AF%20End-to-End%20ML%20Pipelines%20%7C%20AI%20for%20Sports%20Analytics;%F0%9F%A4%96%20%7C%20LLMs%20&%20RAG%20%7C%20Agentic%20AI%20%7C%20Embeddings%20%7C%20Model%20Serving;%F0%9F%9A%80%20Building%20Production-Grade%20Intelligent%20Systems"/>
+<img alt="AI/ML Engineer, Data Analytics, Computer Vision, MLOps, LLMs" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=100&amp;lines=%E2%9A%A1%20AI%2FML%20Engineer%20%7C%20Data%20Analytics%20%7C%20Computer%20Vision%20%7C%20MLOps;%F0%9F%8E%AF%20End-to-End%20ML%20Pipelines%20%7C%20AI%20for%20Sports%20Analytics;%F0%9F%A4%96%20%7C%20LLMs%20RAG%20%7C%20Agentic%20AI%20%7C%20Embeddings%20%7C%20Model%20Serving;%F0%9F%9A%80%20Building%20Production-Grade%20Intelligent%20Systems"/>
 
 <p>
   <a href="mailto:munimakbar113@gmail.com">
