@@ -1,8 +1,8 @@
 ﻿<div align="center">
 
-<img width="100%" alt="Munim Akbar - AI & ML Engineer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:1a1f2e,70:0ea5e9,100:6366f1&amp;height=250&amp;section=header&amp;text=Munim%20Akbar&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=AI%20%26%20ML%20Engineer&amp;descAlignY=58&amp;descSize=20&amp;descColor=0ea5e9"/>
+<h1>Munim Akbar</h1>
 
-<img alt="AI/ML Engineer, Computer Vision, MLOps, LLMs" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=100&amp;lines=%E2%9A%A1%20AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20MLOps%20%7C%20LLMs;%F0%9F%8E%AF%20End-to-End%20ML%20Pipelines%20%7C%20AI%20for%20Sports%20Analytics;%F0%9F%A4%96%20RAG%20%7C%20Agentic%20AI%20%7C%20Embeddings%20%7C%20Model%20Serving;%F0%9F%9A%80%20Building%20Production-Grade%20Intelligent%20Systems"/>
+<img alt="AI/ML Engineer, Data Analytics, Computer Vision, MLOps, LLMs" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=100&amp;lines=%E2%9A%A1%20AI%2FML%20Engineer%20%7C%20Data%20Analytics%20%7C%20Computer%20Vision%20%7C%20MLOps%20%7C%20LLMs;%F0%9F%8E%AF%20End-to-End%20ML%20Pipelines%20%7C%20AI%20for%20Sports%20Analytics;%F0%9F%A4%96%20RAG%20%7C%20Agentic%20AI%20%7C%20Embeddings%20%7C%20Model%20Serving;%F0%9F%9A%80%20Building%20Production-Grade%20Intelligent%20Systems"/>
 
 <p>
   <a href="mailto:munimakbar113@gmail.com">
@@ -37,9 +37,9 @@
 
 <div align="center">
 
-| ⚽ Computer Vision | 🧠 Deep Learning | ⚙️ MLOps | 🤖 LLMs & RAG |
-|:---:|:---:|:---:|:---:|
-| Object Detection • Tracking<br>Sports Analytics • YOLOv8/v11 | CNNs • Vision Transformers<br>Transfer Learning • Classification | Docker • MLflow • DVC<br>CI/CD • Model Deployment | LangChain • Embeddings<br>Agentic AI • Vector DBs |
+| ⚽ Computer Vision | 🧠 Deep Learning | 📊 Data Analytics | ⚙️ MLOps | 🤖 LLMs & RAG |
+|:---:|:---:|:---:|:---:|:---:|
+| Object Detection • Tracking<br>Sports Analytics • YOLOv8/v11 | CNNs • Vision Transformers<br>Transfer Learning • Classification | Python • SQL • Dashboards<br>Data Cleaning • Insights | Docker • MLflow • DVC<br>CI/CD • Model Deployment | LangChain • Embeddings<br>Agentic AI • Vector DBs |
 
 </div>
 
@@ -50,16 +50,16 @@
 ```python
 class MunimAkbar:
     def __init__(self):
-        self.role = "AI/ML Engineer"
+        self.role = "AI/ML Engineer & Data Analyst"
         self.location = "Islamabad, PK"
-        self.expertise = ["Computer Vision", "MLOps", "LLMs", "End-to-End ML"]
+        self.expertise = ["Computer Vision", "Data Analytics", "MLOps", "LLMs", "End-to-End ML"]
         self.philosophy = "Build practical, high-impact AI systems that solve real problems"
 
     def current_focus(self):
         return {
             "building": "AI-powered sports analytics systems",
             "learning": "Advanced agentic AI & production deployment",
-            "open_to": "AI/ML opportunities — Remote | On-site"
+            "open_to": "AI/ML & Data Analytics opportunities — Remote | On-site"
         }
 ```
 
@@ -205,7 +205,7 @@ class MunimAkbar:
 
 <br/><br/>
 
-⭐ **Open to AI/ML Opportunities** | Remote | On-site
+⭐ **Open to AI/ML & Data Analytics Opportunities** | Remote | On-site
 
 </div>
 
