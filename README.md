@@ -11,8 +11,8 @@
   <a href="https://www.linkedin.com/in/munim-akbar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/munimakbar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.kaggle.com/munimakbar">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </p>
 
@@ -57,8 +57,8 @@ class MunimAkbar:
 
     def current_focus(self):
         return {
-            "building": "AI-powered sports analytics systems",
-            "learning": "Advanced agentic AI & production deployment",
+            "building": "AI-powered Intelligent systems",
+            "learning": "Advanced agentic AI, Crew AI & production deployment",
             "open_to": "AI/ML & Data Analytics opportunities — Remote | On-site"
         }
 ```
@@ -164,9 +164,16 @@ class MunimAkbar:
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munimakbar&amp;theme=github_dark"/>
-</p>
+<table align="center">
+<tr>
+<td width="66%">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munimakbar&amp;theme=radical"/>
+</td>
+<td width="34%">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=munimakbar&amp;theme=radical"/>
+</td>
+</tr>
+</table>
 
 ---
 
