@@ -1,8 +1,8 @@
 ﻿<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1f2e,70:0ea5e9,100:6366f1&height=250&section=header&text=Munim%20Akbar&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20ML%20Engineer&descAlignY=58&descSize=20&descColor=0ea5e9"/>
+<img width="100%" alt="Munim Akbar - AI & ML Engineer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:1a1f2e,70:0ea5e9,100:6366f1&amp;height=250&amp;section=header&amp;text=Munim%20Akbar&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=AI%20%26%20ML%20Engineer&amp;descAlignY=58&amp;descSize=20&amp;descColor=0ea5e9"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&height=100&lines=⚡+AI%2FML+Engineer+%7C+Computer+Vision+%7C+MLOps+%7C+LLMs;🎯+End-to-End+ML+Pipelines+%7C+AI+for+Sports+Analytics;🤖+RAG+%7C+Agentic+AI+%7C+Embeddings+%7C+Model+Serving;🚀+Building+Production-Grade+Intelligent+Systems" alt="Typing SVG"/>
+<img alt="AI/ML Engineer, Computer Vision, MLOps, LLMs" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=100&amp;lines=%E2%9A%A1%20AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20MLOps%20%7C%20LLMs;%F0%9F%8E%AF%20End-to-End%20ML%20Pipelines%20%7C%20AI%20for%20Sports%20Analytics;%F0%9F%A4%96%20RAG%20%7C%20Agentic%20AI%20%7C%20Embeddings%20%7C%20Model%20Serving;%F0%9F%9A%80%20Building%20Production-Grade%20Intelligent%20Systems"/>
 
 <p>
   <a href="mailto:munimakbar113@gmail.com">
@@ -209,4 +209,4 @@ class MunimAkbar:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0ea5e9,100:0d1117&height=120&section=footer"/>
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,50:0ea5e9,100:0d1117&amp;height=120&amp;section=footer"/>
