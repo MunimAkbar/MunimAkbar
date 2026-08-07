@@ -1,8 +1,18 @@
-﻿<div align="center">
+<div align="center">
 
-<h1>Munim Akbar</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0ea5e9,100:0d1117&height=180&section=header&text=Munim%20Akbar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img alt="AI/ML Engineer, Data Analytics, Computer Vision, MLOps, LLMs" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=100&amp;lines=%E2%9A%A1%20AI%2FML%20Engineer%20%7C%20Data%20Analytics%20%7C%20Computer%20Vision%20%7C%20MLOps;%F0%9F%8E%AF%20End-to-End%20ML%20Pipelines%20%7C%20AI%20for%20Sports%20Analytics;%F0%9F%A4%96%20%7C%20LLMs%20RAG%20%7C%20Agentic%20AI%20%7C%20Embeddings%20%7C%20Model%20Serving;%F0%9F%9A%80%20Building%20Production-Grade%20Intelligent%20Systems"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=70&lines=AI%2FML+Engineer+%E2%80%A2+Computer+Vision+%E2%80%A2+Data+Analytics;End-to-End+ML+Pipelines+%E2%80%A2+LLMs+%2F+RAG+%2F+MLOps" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Computer_Vision-blueviolet?style=for-the-badge&logo=opencv&logoColor=white&labelColor=5C3FFF" />
+  <img src="https://img.shields.io/badge/Focus-Data_Analytics-00d9ff?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0099CC" />
+  <img src="https://img.shields.io/badge/Focus-LLMs_%26_Agentic_AI-36454F?style=for-the-badge&logo=ai&logoColor=white&labelColor=111111" />
+</p>
 
 <p>
   <a href="mailto:munimakbar113@gmail.com">
@@ -16,61 +26,38 @@
   </a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=ultralytics&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white"/>
-</p>
-
 </div>
+
+<br/>
 
 ---
 
-## 🎯 What I Do
-
-<div align="center">
-
-| ⚽ Computer Vision | 🧠 Deep Learning | 📊 Data Analytics | ⚙️ MLOps | 🤖 LLMs & RAG |
-|:---:|:---:|:---:|:---:|:---:|
-| Object Detection • Tracking<br>Sports Analytics • YOLOv8/v11 | CNNs • Vision Transformers<br>Transfer Learning • Classification | Python • SQL • Dashboards<br>Data Cleaning • Insights | Docker • MLflow • DVC<br>CI/CD • Model Deployment | LangChain • Embeddings<br>Agentic AI • Vector DBs |
-
-</div>
-
----
-
-## 👨‍💻 About Me
+## `whoami`
 
 ```python
 class MunimAkbar:
     def __init__(self):
         self.role = "AI/ML Engineer & Data Analyst"
         self.location = "Islamabad, PK"
-        self.expertise = ["Computer Vision", "Data Analytics", "MLOps", "LLMs", "End-to-End ML"]
-        self.philosophy = "Build practical, high-impact AI systems that solve real problems"
+        self.focus_areas = [
+            "Computer Vision 👁️",
+            "Data Analytics 📊",
+            "LLMs & Agentic AI 🤖",
+            "MLOps ⚙️"
+        ]
+        self.expertise = {
+            "pipeline": "data → training → deployment → monitoring",
+            "infrastructure": ["Docker", "MLflow", "DVC", "CI/CD"],
+            "frameworks": ["LangChain", "YOLOv8/v11", "PyTorch", "TensorFlow"]
+        }
 
     def current_focus(self):
         return {
-            "building": "AI-powered Intelligent systems",
-            "learning": "Advanced agentic AI, Crew AI & production deployment",
+            "building": "AI-powered intelligent systems",
+            "learning": "Advanced agentic AI, CrewAI & production deployment",
             "open_to": "AI/ML & Data Analytics opportunities — Remote | On-site"
         }
 ```
-
----
-
-## 💼 Work Experience
-
-| Period | Role & Company | Key Achievements |
-|:------:|----------------|------------------|
-| `May 2025 – Feb 2026` | **Data Analyst** @ Cowlar Design Studio • Islamabad | • Managed **100,000+ product catalog** with structured pipelines<br/>• Built CV datasets (**80,000+ annotations**) + trained YOLOv11<br/>• Developed **LLM-based product categorization** using embeddings + semantic search<br/>• Reduced manual effort by **30%** through automation |
-| `Jan 2024 – Jun 2024` | **AI/ML Engineer Intern** @ CSERA Pvt Ltd | • Developed **network anomaly detection** (Isolation Forest + Autoencoders)<br/>• Built **NLP chatbot + voice assistant** (Transformers, Rasa, Dialogflow)<br/>• Achieved **85%+ accuracy** in automated responses |
 
 ---
 
@@ -80,128 +67,185 @@ class MunimAkbar:
 <tr>
 <td width="50%" valign="top">
 
-### ⚽ AI-Powered Football Match Analysis System *(FYP)*
+### 📞 AI Voice Receptionist — Sara
+`LiveKit Agents` `n8n MCP` `Google Calendar` `Deepgram` `GPT-4o`
 
-*Player tracking, team classification, and tactical visualizations*
-
-- 🎯 **~86% accuracy** with real-time deployment
-- 📊 Player, ball, and referee detection using YOLOv8
-- 🏷️ Team classification: Siglip + UMAP + KMeans
-- 🗺️ Tactical visualizations: radar view, Voronoi diagrams, trajectory tracking
-- 🔧 **Stack:** YOLOv8 · Siglip · UMAP · Flask/FastAPI · OpenCV
+Inbound AI voice receptionist that answers phone calls and handles appointment scheduling end-to-end — books, looks up, reschedules, and cancels appointments entirely via voice. STT (Deepgram Nova-3) → LLM (GPT-4o) → TTS (Cartesia Sonic-3) pipeline on LiveKit Cloud, wired to an n8n MCP server for Google Calendar + Sheets tool calls, deployed on Railway.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Kidney Disease Classification *(MLOps Pipeline)*
+### ⚽ AI-Powered Football Match Analysis *(FYP)*
+`YOLOv8` `Siglip` `UMAP` `OpenCV` `FastAPI`
 
-*End-to-end pipeline with production-ready practices*
-
-- 🎯 **92% accuracy** using VGG16 transfer learning
-- 🔍 OOD detection using cosine similarity
-- 📦 **DVC + MLflow + DagsHub** for experiment tracking
-- 🐳 Dockerized deployment with Flask/FastAPI
-- 🤗 Hugging Face Spaces UI integration
-- 🔧 **Stack:** VGG16 · DVC · MLflow · Docker · FastAPI
+Player, ball, and referee detection with team classification (Siglip + UMAP + KMeans) and tactical visualizations — radar view, Voronoi diagrams, trajectory tracking. **~86% accuracy**, real-time deployment.
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🧠 Kidney Disease Classification
+`VGG16` `DVC` `MLflow` `Docker` `FastAPI`
+
+End-to-end MLOps pipeline with OOD detection via cosine similarity, DVC + MLflow + DagsHub experiment tracking, Dockerized deployment, and a Hugging Face Spaces UI. **92% accuracy**.
+
+</td>
 <td width="50%" valign="top">
 
 ### 🫁 Pneumonia Detection with Vision Transformers
+`ViT` `ResNet` `Gradio` `MongoDB` `GitHub Actions`
 
-*Dual-model system for robust classification*
+Dual-model system: ResNet for OOD detection + ViT for classification, wrapped in a CI/CD pipeline (GitHub Actions + DVC + MLflow) with a Gradio app and MongoDB integration. **94% accuracy**.
 
-- 🎯 **94% accuracy**
-- 🔄 Dual-model: ResNet (OOD) + ViT (classification)
-- ⚙️ CI/CD pipeline: GitHub Actions + DVC + MLflow
-- 🎨 Gradio app with MongoDB integration
-- 🔧 **Stack:** ViT · ResNet · Gradio · MongoDB · GitHub Actions
-
-</td>
-<td width="50%" valign="top"></td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow%2FKeras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO%20v8%2Fv11-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-4A90E2?style=for-the-badge&logo=llama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Whisper-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<table align="center">
-<tr>
-<td width="66%">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munimakbar&amp;theme=radical"/>
-</td>
-<td width="34%">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=munimakbar&amp;theme=radical"/>
 </td>
 </tr>
 </table>
 
 ---
+<br/>
 
-## Education
-
-### 🎓 BS Artificial Intelligence
-**Air University, Islamabad** — 2021 – 2025
-
----
-
-## 📫 Let's Connect
+## 🗂️ WORK // FIELD OPERATIONS
 
 <div align="center">
 
-<a href="mailto:munimakbar113@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/munim-akbar/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/munimakbar">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-⭐ **Open to AI/ML & Data Analytics Opportunities** | Remote | On-site
+# FIELD DOSSIER // CAREER LOG
 
 </div>
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,50:0ea5e9,100:0d1117&amp;height=120&amp;section=footer"/>
+<br>
+
+```mermaid
+timeline
+
+    Jan 2024 - Jun 2024 : AI/ML ENGINEER INTERN — CSERA Pvt Ltd
+                        : Built network anomaly detection (Isolation Forest + Autoencoders)
+                        : Developed NLP chatbot + voice assistant (Transformers, Rasa, Dialogflow)
+                        : Achieved 85%+ accuracy in automated responses
+
+    May 2025 - Feb 2026 : DATA ANALYST — Cowlar Design Studio
+                        : Managed 100,000+ product catalog with structured pipelines
+                        : Built CV datasets (80,000+ annotations) and trained YOLOv11
+                        : Developed LLM-based product categorization using embeddings + semantic search
+                        : Reduced manual effort by 30% through automation
+```
+
+<br>
+
+---
+
+```mermaid
+mindmap
+  root((SKILLS USED))
+
+    AI/ML
+      PyTorch
+      TensorFlow
+      Scikit-learn
+      Transfer Learning
+
+    Computer Vision
+      YOLOv8/v11
+      OpenCV
+      Object Detection
+      Tracking
+
+    LLMs & RAG
+      LangChain
+      Embeddings
+      Vector DBs
+      Agentic AI
+
+    MLOps
+      MLflow
+      DVC
+      Docker
+      CI/CD
+```
+
+---
+
+## 🌱 Current Focus
+
+| Area | Details |
+|:--|:--|
+| ⚽ **Sports & CV Analytics** | Object detection, tracking, tactical visualizations |
+| 🤖 **Agentic AI** | CrewAI, tool use, multi-step planning |
+| 🏭 **LLMs & RAG** | Embeddings, semantic search, vector databases |
+| ⚙️ **MLOps** | End-to-end pipelines, experiment tracking, deployment |
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Core ML & AI**<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+&nbsp;
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO%20v8%2Fv11-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" />
+
+<br/><br/>**LLMs & Agentic AI**<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-4A90E2?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Whisper-00A67E?style=flat-square&logo=openai&logoColor=white" />
+
+<br/><br/>**MLOps & Deployment**<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github" />
+&nbsp;
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+
+<br/><br/>**Data, Cloud & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,azure" />
+&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api?username=munimakbar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=0EA5E9&text_color=8B949E&icon_color=0EA5E9&rank_icon=github" />
+<img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=munimakbar&theme=radical&hide_border=true&layout=compact&langs_count=6&title_color=0EA5E9&text_color=8B949E" />
+
+</div>
+
+---
+
+## 🎓 Education
+
+**BS Artificial Intelligence** — Air University, Islamabad *(2021 – 2025)*
+
+---
+
+## 💬 Let's Connect
+
+<div align="center">
+
+<a href="mailto:munimakbar113@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/munim-akbar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.kaggle.com/munimakbar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href="https://github.com/munimakbar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+*⭐ Open to AI/ML & Data Analytics opportunities — Remote | On-site*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=munimakbar&color=0EA5E9&style=flat-square&label=Profile+Views" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0ea5e9,100:0d1117&height=120&section=footer"/>
+
+</div>
