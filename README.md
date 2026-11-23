@@ -214,8 +214,10 @@ mindmap
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api?username=munimakbar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=0EA5E9&text_color=8B949E&icon_color=0EA5E9&rank_icon=github" />
-<img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=munimakbar&theme=radical&hide_border=true&layout=compact&langs_count=6&title_color=0EA5E9&text_color=8B949E" />
+<img width="49%" src="https://streak-stats.demolab.com?user=MunimAkbar&hide_border=true&background=0D1117&ring=0EA5E9&fire=6366F1&currStreakLabel=0EA5E9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="GitHub streak" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MunimAkbar&theme=github_dark" alt="Top languages by commit" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MunimAkbar&bg_color=0D1117&color=8B949E&title_color=0EA5E9&line=0EA5E9&point=FFFFFF&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 
 </div>
 
